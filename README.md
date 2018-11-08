@@ -1,7 +1,7 @@
 
 # journotools
 
-All tools journalistic
+All tools journalistic. Period
 
 # Welcome to journotools
 
