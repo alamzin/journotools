@@ -7,6 +7,10 @@ All tools journalistic
 
 This is a collection of tools that may prove useful to journalists. It will grow eventually into a big toolkit.
 
+## linter
+
+Checks a header, body and other fields. Makes sure everything is compatible.
+
 ## email-extractor
 
 This simple script gets all emails from a text file and outputs them in orderly manner
@@ -38,7 +42,7 @@ Checks if
 - words are double-spaced
 - double empty lines are used
 - punctuation marks placed erroneously
-- too many words from Odgen's lists 
+- too many words from Odgen's lists
 - too many words repeated
 
 ## picture-checks
@@ -50,10 +54,10 @@ Takes URL as an argument. Checks if
 
 ## lede-generator
 
-Tool that generates lede by taking the first sentence from each paragraph. 
+Tool that generates lede by taking the first sentence from each paragraph.
 
 ## Some constants
 
-Average length of a Russian oral sentence: 10 words. Average written Russian sentence consists of 14 words. 
+Average length of a Russian oral sentence: 10 words. Average written Russian sentence consists of 14 words.
 
 Average length of an English written sentence: 20 words. The Wall Street Journal uses sentences with average length of 23 words. The same metric of The New York Times is 28 words.
